@@ -79,7 +79,7 @@ http://localhost:8080/swagger-ui/index.html
 
 ## 🔬 Postman Collection
 Import the provided Postman collection to test the APIs.
-- File: [`EyeQlytics.postman_collection`](EyeQlytics.postman_collection)
+- File: [`EyeQlytics.postman_collection`](EyeQlytics.postman_collection.json)
 - Steps:
   - Open **Postman**.
   - Click on **Import** > **Upload File**.
