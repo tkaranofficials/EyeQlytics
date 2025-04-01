@@ -21,7 +21,7 @@ This Spring Boot application provides CRUD operations for country data and integ
 
 ### 1️⃣ Clone the Repository
 ```sh
- git clone https://github.com/your-username/your-repository.git
+ git clone [https://github.com/your-username/your-repository.git](https://github.com/tkaranofficials/EyeQlytics.git)
  cd your-repository
 ```
 
